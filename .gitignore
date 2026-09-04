@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 실제 명단/개인정보 파일 실수 커밋 방지
+*.xlsx
+*.xls
+*.csv
